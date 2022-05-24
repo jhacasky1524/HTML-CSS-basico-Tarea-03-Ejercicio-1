@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+    font-family:'Roboto',sans-serif;
+}
+.logo{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 50px;
+}
+.todo{
+    background-color: #E3E3E3;
+    padding: 5px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+.principal{
+    text-align: center;
+    position: relative;
+    display: inline-block;
+    border: 5px solid white;
+}
+.imagenprincipal{
+    -webkit-filter: grayscale(1);
+    filter: gray;
+    filter: grayscale(1)
+}
+.texto-encima{
+    color:black;
+    position: absolute;
+    font-family: 'Koulen', cursive;
+    font-size: 30px;
+    bottom: 5px;
+    left: 10px;
+}
+.indice{
+    text-align: left;
+}
